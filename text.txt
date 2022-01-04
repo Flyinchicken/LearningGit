@@ -1,1 +1,4 @@
 This is a text document for learning git.
+To build a local repository, use [git init].
+Or, first build the repository on the remote server (Github) and then use [git clone address] to reconstruct the remote repository locally.
+Using SSH requires us to add the public key to Github first. This is a faster method than HTTPS.
